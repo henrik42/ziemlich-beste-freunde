@@ -1,6 +1,6 @@
 (ns beispiel-8
   (import [javax.xml.bind.annotation 
-           XmlRootElement XmlElement XmlAccessorType XmlAccessType XmlRegistry]))
+           XmlRootElement XmlAccessorType XmlAccessType]))
 
 (gen-class
  :name ^{XmlRootElement []
